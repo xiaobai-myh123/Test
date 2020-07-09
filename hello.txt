@@ -1,7 +1,5 @@
-master
+﻿master
 dev
-<<<<<<< HEAD
 1.txt
 1.txt
-=======
->>>>>>> parent of 1f9226c... 在dev 什么的1.txt
+
