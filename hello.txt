@@ -1,4 +1,2 @@
 ﻿master
 dev
-1.txt
-1.txt
