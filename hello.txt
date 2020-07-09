@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿master
 dev
 1.txt
 1.txt
-
-=======
->>>>>>> parent of 4291ed0... dev测试
