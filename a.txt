@@ -1,6 +1,3 @@
 ﻿master
-<<<<<<< HEAD
-=======
 dev
 
->>>>>>> parent of 53bd035... 11

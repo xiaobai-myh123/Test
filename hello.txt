@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-﻿﻿master
-=======
 ﻿master
+master
 dev
 1.txt
 1.txt
->>>>>>> parent of 53bd035... 11
